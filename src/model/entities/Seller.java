@@ -42,7 +42,7 @@ public class Seller implements Serializable{
     public void setName(String name) {
         this.name = name;
     }
-
+    
     public String getEmail() {
         return email;
     }
